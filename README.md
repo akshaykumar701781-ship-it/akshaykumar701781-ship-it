@@ -1,4 +1,4 @@
-![logo](C:\Users\akshaykumar\OneDrive\Pictures - Copy\Pictures\Screenshots)
+![logo](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)
 <h1 align="center">Hi 👋, I'm Akshay kumar</h1>
 <h3 align="center">currently I'm a Data Analyst</h3>
 
@@ -39,5 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykumar701781-ship-it&show_icons=true&locale=en" alt="akshaykumar701781-ship-it" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar701781-ship-it&" alt="akshaykumar701781-ship-it" /></p>
+
 
 

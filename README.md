@@ -1,6 +1,6 @@
 ![logo](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)
 <h1 align="center">Hi 👋, I'm Akshay kumar</h1>
-<h3 align="center">currently I'm a Data Analyst</h3>
+<h3 align="center">currently I'm Working As a Data Analyst with 1 Year Experience </h3>
 
 <img align="right" alt ="coding" width="400" src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif">
 

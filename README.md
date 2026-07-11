@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykumar701781-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykumar701781-ship-it" /> </p>
 
-- 🔭 I’m currently working on [Power_bi_HR_ANALYSIS_DASHBOARD](https://github.com/akshaykumar701781-ship-it/Power_Bi_Dashboard/tree/main/HR_ANALYTICS_Dashboard)
+- 🔭 I’m currently working as a Data Analyst at Noida. [Power_bi_HR_ANALYSIS_DASHBOARD](https://github.com/akshaykumar701781-ship-it/Power_Bi_Dashboard/tree/main/HR_ANALYTICS_Dashboard)
 
-- 🌱 I’m currently learning **study as a Data analyst, some skills like Excel ,Power_bi,My_SQL ,Python.**
+- 🌱 I’m currently **Working as a Data analyst, some skills like Excel ,Power_bi,My_SQL ,Python.**
 
 - 👯 I’m looking to collaborate on [Excel_dashboard](https://github.com/akshaykumar701781-ship-it/Excel_dashboard1/blob/main/README.md)
 
